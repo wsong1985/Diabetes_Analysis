@@ -2,7 +2,7 @@
 
 ## **Overview of Diabetes_Analysis**
 
-Tasks to perfrom:
+Tasks to perform:
 
 1. Database (AWS) - completed
 2. Website - in progress
