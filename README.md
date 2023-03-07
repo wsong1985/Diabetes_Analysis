@@ -1,1 +1,10 @@
 # Final_Project_Group4
+# Diabetes
+
+## Overview
+Diabetes is a chronic disease that occurs when the pancreas doesn’t produce enough insulin or the body can’t use it as well as it should. Our bodies break down the food we eat into sugar and gets released into the bloodstream. When blood sugar levels go up, insulin should let the blood sugar into the body’s cells to be used for energy. When insulin is low, too much blood sugar stays in the bloodstream and can cause life threatening complications. Diabetes can be caused by genetics or lifestyle factors like exercise and eating habits and over time more serious problems can develop like kidney disease, vision loss or heart disease.  
+There are over 37 million adults in the US living with diabetes and many more that go undiagnosed. We chose this topic to help predict the probability of a person having diabetes using supervised machine learning models.   
+
+## Results 
+
+## Summary 
