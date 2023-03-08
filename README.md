@@ -16,6 +16,11 @@ After testing the maching learning models, which model has the highest accuracy?
 
 What is the correlation between the vector and the target variable? 
 
+## Questions 
+After testing the maching learning models, which model has the highest accuracy? 
+
+What is the correlation between the vector and the target variable? 
+
 ## Results 
 
 ## Summary 
