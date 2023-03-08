@@ -1,5 +1,0 @@
-1. Database (AWS) - completed
-2. Website - in progress
-2. Starter code - completed
-3. Cleaning raw data - completed
-4. Support Vector Machines (SVM) - in progress
