@@ -6,6 +6,11 @@ Diabetes is a chronic disease that occurs when the pancreas doesn’t produce en
 
 There are over 37 million adults in the US living with diabetes and many more that go undiagnosed. We chose this topic to help predict the probability of a person having diabetes using supervised machine learning models.   
 
+## Questions 
+After testing the maching learning models, which model has the highest accuracy? 
+
+What is the correlation between the vector and the target variable? 
+
 ## Results 
 
 ## Summary 
