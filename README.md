@@ -21,10 +21,19 @@ After testing the maching learning models, which model has the highest accuracy?
 
 What is the correlation between the vector and the target variable? 
 
-## Questions 
-After testing the maching learning models, which model has the highest accuracy? 
+## Checklist
 
-What is the correlation between the vector and the target variable? 
+   * __AWS Database - Completed__
+   <img src="Images/Database.PNG" width=400> 
+
+   * __S3 Bucket - Completed__
+   <img src="Images/S3_bucket.PNG" width=400> 
+
+   * __Tables Created in Database - Completed__
+   <img src="Images/Tables.PNG" width=400> 
+
+   * __Decision Tree Model - Completed__
+   <img src="Images/Decision Tree Model.PNG" width=400>    
 
 ## Results 
 
