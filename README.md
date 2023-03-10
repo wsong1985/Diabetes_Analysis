@@ -20,17 +20,17 @@ What is the correlation between the vector and the target variable?
 
 ## Checklist
 
-    * AWS Database - Completed
-   <img src="Images/Database.PNG" width=500> 
+   * __AWS Database - Completed__
+   <img src="Images/Database.PNG" width=400> 
 
-    * S3 Bucket - Completed
-   <img src="Images/S3_bucket.PNG" width=500> 
+   * __S3 Bucket - Completed__
+   <img src="Images/S3_bucket.PNG" width=400> 
 
-    * Tables Created in Database - Completed
-   <img src="Images/Tables.PNG" width=500> 
+   * __Tables Created in Database - Completed__
+   <img src="Images/Tables.PNG" width=400> 
 
-    * Decision Tree Model - Completed
-   <img src="Images/Decision Tree Model.PNG" width=500>    
+   * __Decision Tree Model - Completed__
+   <img src="Images/Decision Tree Model.PNG" width=400>    
 
 ## Results 
 
