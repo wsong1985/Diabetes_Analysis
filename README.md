@@ -8,7 +8,7 @@ Diabetes is a chronic disease that occurs when the pancreas doesn’t produce en
 
 There are over 37 million adults in the US living with diabetes and many more that go undiagnosed. We chose this topic to help predict the probability of a person having diabetes using supervised machine learning models.
 
-Note: Reasoning for topic selection and project status are documented in the project proposal. 
+Note: Reasoning for topic selection is documented in the project proposal and project status is documented in the project proposal and the checklist section. 
 
 ## Data source: 
 
