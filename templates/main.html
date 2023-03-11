@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<style>
+    form {
+        margin: auto;
+        width: 40%;
+    }
+    
+    .result {
+        margin: auto;
+        width: 40%;
+        border: 1px solid #ccc;
+    }
+</style>
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diabetes Indicator</title>
+</head>
+
+<form action="{{ url_for('main') }}" method="POST">
+    <fieldset>
+        <legend>Input values:</legend>
+        HighBP (0-No, 1-Yes):
+        <input name="HighBP" type="number" required>
+        <br>
+        <br> HighChol (0-No, 1-Yes):
+        <input name="HighChol" type="number" required>
+        <br>
+        <br> CholCheck in past 5 years (0-No, 1-Yes):
+        <input name="CholCheck" type="number" required>
+        <br>
+        <br> BMI:
+        <input name="BMI" type="number" required>
+        <br>
+        <br> Smoker, more than 100 cigarettes in your entire life (0-No, 1-Yes):
+        <input name="Smoker" type="number" required>
+        <br>
+        <br> Stroke (0-No, 1-Yes):
+        <input name="Stroke" type="number" required>
+        <br>
+        <br> HeartDiseaseorAttack (0-No, 1-Yes):
+        <input name="HeartDiseaseorAttack" type="number" required>
+        <br>
+        <br> PhysActivity in the past 30 days (0-No, 1-Yes):
+        <input name="PhysActivity" type="number" required>
+        <br>
+        <br> Fruits (0-No, 1-Yes):
+        <input name="Fruits" type="number" required>
+        <br>
+        <br> Veggies (0-No, 1-Yes):
+        <input name="Veggies" type="number" required>
+        <br>
+        <br> HvyAlcoholConsump, more than 14 drinks per week (0-No, 1-Yes):
+        <input name="HvyAlcoholConsump" type="number" required>
+        <br>
+        <br> AnyHealthcare (0-No, 1-Yes):
+        <input name="AnyHealthcare" type="number" required>
+        <br>
+        <br> NoDocbcCost the past 12 months (0-No, 1-Yes):
+        <input name="NoDocbcCost" type="number" required>
+        <br>
+        <br> GenHlth (Scale 1 to 5):
+        <input name="GenHlth" type="number" required>
+        <br>
+        <br> MentHlth the past 30 days (Scale 1 to 30):
+        <input name="MentHlth" type="number" required>
+        <br>
+        <br> PhysHlth the past 30 days (Scale 1 to 30):
+        <input name="PhysHlth" type="number" required>
+        <br>
+        <br> DiffWalk (0-No, 1-Yes):
+        <input name="DiffWalk" type="number" required>
+        <br>
+        <br> Sex (0-female, 1-male):
+        <input name="Sex" type="number" required>
+        <br>
+        <br> Age (1 = 18-24, 2= 25-29, 3 = 30-34, 4 = 35-39, 5 = 40-44, 6 = 45-49, 7 = 50-54, 8 = 55-59, 9 = 60-64, 10 = 65-69, 11 = 70-74, 12 = 75-79, 13 = 80 or older):
+        <input name="Age" type="number" required>
+        <br>
+        <br> Education (1 = Never, 2 = Grade 1 to 8, 3 = Grade 9 to 11, 4 = Grade 12 or GED, 5 = College 1 to 3 years, 6 = College 4 years or more):
+        <input name="Education" type="number" required>
+        <br>
+        <br> Income (1 = less than 10k, 2 = less than 15k, 3 = less than 20k, 4 = less than 25k, 5 = less than 35k, 6 = less than 50k, 7 = less than 75k, 8 = 75k or above):
+        <input name="Income" type="number" required>
+        <br>
+        <br>
+        <input type="submit">
+    </fieldset>
+</form>
+
+<br>
+<div class="result" align="center">
+    {% if result %}
+    	<br> Is the patient likely to have diabetes?
+   		<p style="font-size:40px">{{ result }}</p>
+    {% endif %}
+</div>
+
+</html>
