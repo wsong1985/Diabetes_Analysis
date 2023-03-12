@@ -2,5 +2,4 @@ flask
 pandas
 gunicorn
 xgboost
-pickle-mixin
-sklearn
+scikit-learn
