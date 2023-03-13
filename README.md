@@ -35,6 +35,10 @@ What is the correlation between the vector and the target variable?
    * __Decision Tree Model - Completed__
    <img src="Images/Decision Tree Model.PNG" width=400>    
 
+## Tableau Analysis
+
+[Link to Tableau Story](https://public.tableau.com/shared/G38YT5WDT?:display_count=n&:origin=viz_share_link) 
+
 ## Results 
 
 ## Summary 
