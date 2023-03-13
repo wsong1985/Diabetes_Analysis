@@ -37,6 +37,32 @@ What is the correlation between the vector and the target variable?
 
 ## Tableau Analysis
 
+There are 229,474 patients in this dataset. 
+
+194,377 Patients are non Diabetic & 35,097 patients are Diabetic.
+
+128,715 Patients are female & 100,759 are male. 
+
+Of the Diabetic patients, 18,345 are female & 16,752 are male.
+
+Age of Diabetic Patients by Gender
+Male and female diabetic patients follow the same age pattern. The amount of diabetic patients jumps up around ages 40-45 and peeks at ages 65-69 for males and females.  
+
+Diabetic Patients - Smokers and Alcohol Consumption
+Among diabetic patients, there are more smokers. The smokers consumed almost three times more alcohol in the last 30 days than non smokers. 
+
+Non Diabetic Patients - Smokers and Alcohol Consumption
+Among non diabetic patients, there are less smokers. The smokers consumed almost two times more alcohol in the last 30 days than non smokers. 
+
+Average BMI by Age for Diabetic vs Non Diabetic Patients
+BMI - Body Mass Index is a weight-to-height ration used to indicate if a person is over or underweight. To get the BMI, you divide your weight in kilograms by the square of height in meters. BMI = kg/m2
+Overall, diabetic patients have a higher BMI then non diabetic patients. 
+Among diabetic and non diabetic patients, ages 18-24 & 70-80+ had the lowest BMI and ages 40-49 had the highest BMI. 
+Diabetic Patients
+The 18-24 & 60-80+ age ranges have a BMI of 28.073-32.667. The 25-59 age range have a BMI of 33.347-35.065. 
+Non Diabetic Patients 
+The 18-29 & 70-80+ age ranges have a BMI of 25.765-27.704. The 30-69 age range have a BMI of 28.082-29.026. 
+
 [Link to Tableau Story](https://public.tableau.com/shared/G38YT5WDT?:display_count=n&:origin=viz_share_link) 
 
 ## Results 
