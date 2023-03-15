@@ -47,14 +47,16 @@ There are 229,474 patients in this dataset.
 ![DiabeticandNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/224593791-4f50f43c-82bf-47bf-9212-50bb4a02e0fc.png)
 
 
+Gender of All Patients 
 128,715 Patients are female & 100,759 are male. 
 
-![AllPatientsGenderBreakdown](https://user-images.githubusercontent.com/115032384/224593867-560f7ded-48df-4837-abc8-26ff7c130fb4.png)
+![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225178555-343cb5ff-5568-42b3-b371-ab510812705b.png)
 
 
+Gender of Diabetic Patients 
 Of the Diabetic patients, 18,345 are female & 16,752 are male.
 
-![DiabeticPatientsByGender](https://user-images.githubusercontent.com/115032384/224593902-45fcdcdf-5590-442f-aa4d-61e67f69b964.png)
+![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225178728-a81f8c10-b000-4212-a721-71ba08a18fd1.png)
 
 
 Age of Diabetic Patients by Gender
@@ -66,16 +68,32 @@ Male and female diabetic patients follow the same age pattern. The amount of dia
 Diabetic Patients - Smokers and Alcohol Consumption
 Among diabetic patients, there are more smokers. The smokers consumed almost three times more alcohol in the last 30 days than non smokers. 
 
-![DiabeticPatientsSmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/224593998-3ca9b9bf-1168-4eed-b4ca-3e678c485ec3.png)
-
-
 Non Diabetic Patients - Smokers and Alcohol Consumption
 Among non diabetic patients, there are less smokers. The smokers consumed almost two times more alcohol in the last 30 days than non smokers. 
 
-![NonDiabeticPatientsSmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/224594031-8ee0bf9b-d55e-4042-aa89-bd84e4cb18a0.png)
+![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225178930-4b6a13b5-4fdc-4696-9d08-d1117ed6b623.png)
+
+Income 
+
+![Income](https://user-images.githubusercontent.com/115032384/225179717-70abd8e2-6f03-4553-ab40-484341965503.png)
 
 
-Average BMI by Age for Diabetic vs Non Diabetic Patients
+Physical Activity 
+
+![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225179420-8d7370eb-302b-45b9-b77a-b882014d7e45.png)
+
+
+Fruit & Vegetable Consumption
+
+![FruitVegetableConsumption](https://user-images.githubusercontent.com/115032384/225179305-ca6a55f4-1e96-44cf-8798-fd428a833f7c.png)
+
+
+Average BMI by Gender 
+
+![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225179178-4e2e2de0-7a88-458b-b5d4-d98137af6e07.png)
+
+
+Average BMI by Age 
 BMI - Body Mass Index is a weight-to-height ration used to indicate if a person is over or underweight. To get the BMI, you divide your weight in kilograms by the square of height in meters. BMI = kg/m2
 Overall, diabetic patients have a higher BMI then non diabetic patients. 
 Among diabetic and non diabetic patients, ages 18-24 & 70-80+ had the lowest BMI and ages 40-49 had the highest BMI. 
@@ -84,10 +102,11 @@ The 18-24 & 60-80+ age ranges have a BMI of 28.073-32.667. The 25-59 age range h
 Non Diabetic Patients 
 The 18-29 & 70-80+ age ranges have a BMI of 25.765-27.704. The 30-69 age range have a BMI of 28.082-29.026. 
 
-![AvgBMIDiabeticvsNonDiabeticByAge](https://user-images.githubusercontent.com/115032384/224594076-d6714914-9885-4410-a651-121cab2e38b9.png)
+![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225179065-159c99ee-a765-45ff-bdb1-cf59543d9b4b.png)
 
 
-[Link to Tableau Story](https://public.tableau.com/shared/G38YT5WDT?:display_count=n&:origin=viz_share_link) 
+
+[Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results 
 
