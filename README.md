@@ -55,28 +55,23 @@ Diabetic to Non-Diabetic Patients
 
 
 Gender of All Patients 
-128,715 Patients are female & 100,759 are male. 
+128,715 Patients are female (56.1%) & 100,759 are male (43.9%). 
 
 ![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225773817-7ea078ae-ed36-4803-9fd3-e36e00152e58.png)
 
 
 Gender of Diabetic Patients 
-Of the Diabetic patients, 18,345 are female & 16,752 are male.
+18,345 are female (52.3%) & 16,752 are male (47.7%).
 
 ![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773833-31e06d92-a619-4618-a9ee-ad6eafb8d081.png)
 
 
 Age of Diabetic Patients by Gender
-Male and female diabetic patients follow the same age pattern. The amount of diabetic patients jumps up around ages 40-45 and peeks at ages 65-69 for males and females.  
 
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
 
 
-Diabetic Patients - Smokers and Alcohol Consumption
-Among diabetic patients, there are more smokers. The smokers consumed almost three times more alcohol in the last 30 days than non smokers. 
-
-Non Diabetic Patients - Smokers and Alcohol Consumption
-Among non diabetic patients, there are less smokers. The smokers consumed almost two times more alcohol in the last 30 days than non smokers. 
+Smokers and Alcohol Consumption
 
 ![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225178930-4b6a13b5-4fdc-4696-9d08-d1117ed6b623.png)
 
@@ -101,13 +96,6 @@ Average BMI by Gender
 
 
 Average BMI by Age 
-BMI - Body Mass Index is a weight-to-height ration used to indicate if a person is over or underweight. To get the BMI, you divide your weight in kilograms by the square of height in meters. BMI = kg/m2
-Overall, diabetic patients have a higher BMI then non diabetic patients. 
-Among diabetic and non diabetic patients, ages 18-24 & 70-80+ had the lowest BMI and ages 40-49 had the highest BMI. 
-Diabetic Patients
-The 18-24 & 60-80+ age ranges have a BMI of 28.073-32.667. The 25-59 age range have a BMI of 33.347-35.065. 
-Non Diabetic Patients 
-The 18-29 & 70-80+ age ranges have a BMI of 25.765-27.704. The 30-69 age range have a BMI of 28.082-29.026. 
 
 ![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225179065-159c99ee-a765-45ff-bdb1-cf59543d9b4b.png)
 
