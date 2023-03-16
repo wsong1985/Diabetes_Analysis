@@ -32,16 +32,14 @@ What is the correlation between the vector and the target variable?
    * __Tables Created in Database - Completed__
    <img src="Images/Tables.PNG" width=400> 
 
-   * __Decision Tree Model - Completed__
-   <img src="Images/Decision Tree Model.PNG" width=400>
    
 ## Webpage
    
-   * __A Flask app with Decision Tree Model has been completed and deployed to an URL using Heroku.__
+   * __A Flask app with Deep Machine Learning has been completed and deployed to an URL using Heroku.__
    
    [link to the Flask app](https://diabetes-model.herokuapp.com/)
    
-   <img src="Images/Decision Tree Model.PNG" width=400>    
+   <img src="Images/best_dml_model_by_keras_tuner.PNG" width=400>    
 
 ## Tableau Analysis
 
