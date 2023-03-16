@@ -80,7 +80,7 @@ Income
 
 Physical Activity 
 
-![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225179420-8d7370eb-302b-45b9-b77a-b882014d7e45.png)
+![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225775635-1e7f24c7-ebcb-45a7-b849-de60b4223746.png)
 
 
 Fruit & Vegetable Consumption
@@ -96,6 +96,12 @@ Average BMI by Gender
 Average BMI by Age 
 
 ![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225774955-e3ee5e57-84a0-430e-bec5-6f21b526b51e.png)
+
+
+Diabetes Analysis Dashboard
+
+![DiabetesAnalysisDashboard](https://user-images.githubusercontent.com/115032384/225776918-02587a17-8220-4f48-a5e2-2cb458b14830.png)
+
 
 
 [Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
