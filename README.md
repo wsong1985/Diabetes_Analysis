@@ -69,7 +69,7 @@ Age of Diabetic Patients by Gender
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
 
 
-Smokers and Alcohol Consumption
+Smokers & Alcohol Consumption
 
 ![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225178930-4b6a13b5-4fdc-4696-9d08-d1117ed6b623.png)
 
@@ -78,12 +78,12 @@ Income
 ![Income](https://user-images.githubusercontent.com/115032384/225179717-70abd8e2-6f03-4553-ab40-484341965503.png)
 
 
-Physical Activity 
+Physical Activity by Education
 
 ![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225775635-1e7f24c7-ebcb-45a7-b849-de60b4223746.png)
 
 
-Fruit & Vegetable Consumption
+Fruit & Vegetable Consumption by Income
 
 ![FruitVegetableConsumption](https://user-images.githubusercontent.com/115032384/225179305-ca6a55f4-1e96-44cf-8798-fd428a833f7c.png)
 
