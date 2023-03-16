@@ -90,13 +90,12 @@ Fruit & Vegetable Consumption
 
 Average BMI by Gender 
 
-![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225179178-4e2e2de0-7a88-458b-b5d4-d98137af6e07.png)
+![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225774978-a57c4b46-e462-452f-a2ee-1914a35dea1d.png)
 
 
 Average BMI by Age 
 
-![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225179065-159c99ee-a765-45ff-bdb1-cf59543d9b4b.png)
-
+![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225774955-e3ee5e57-84a0-430e-bec5-6f21b526b51e.png)
 
 
 [Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
