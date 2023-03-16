@@ -1,7 +1,9 @@
-flask
-pandas
-gunicorn
-xgboost
-Keras
-numpy
-tensorflow
+Flask==2.2.3
+gunicorn==20.1.0
+keras==2.11.0
+numpy==1.21.6
+pandas==1.3.5
+scikit-learn==1.0.2
+scipy==1.7.3
+sklearn==0.0.post1
+tensorflow-cpu==2.11.0
