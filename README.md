@@ -48,27 +48,28 @@ There are 229,474 patients in this dataset.
 ![NumberofPatients](https://user-images.githubusercontent.com/115032384/224593519-e49babfe-c817-4113-b8a0-4088b1fa34e8.png)
 
 
+Diabetic to Non-Diabetic Patients
 194,377 Patients are non Diabetic & 35,097 patients are Diabetic.
 
-![DiabeticandNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/224593791-4f50f43c-82bf-47bf-9212-50bb4a02e0fc.png)
+![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773453-4dbb5714-a1dc-473e-be0f-ae13e31208d6.png)
 
 
 Gender of All Patients 
 128,715 Patients are female & 100,759 are male. 
 
-![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225178555-343cb5ff-5568-42b3-b371-ab510812705b.png)
+![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225773817-7ea078ae-ed36-4803-9fd3-e36e00152e58.png)
 
 
 Gender of Diabetic Patients 
 Of the Diabetic patients, 18,345 are female & 16,752 are male.
 
-![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225178728-a81f8c10-b000-4212-a721-71ba08a18fd1.png)
+![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773833-31e06d92-a619-4618-a9ee-ad6eafb8d081.png)
 
 
 Age of Diabetic Patients by Gender
 Male and female diabetic patients follow the same age pattern. The amount of diabetic patients jumps up around ages 40-45 and peeks at ages 65-69 for males and females.  
 
-![AgeofDiabeticPatientsByGender](https://user-images.githubusercontent.com/115032384/224593941-8385ed89-34e8-42db-92df-ff0d88c15f1a.png)
+![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
 
 
 Diabetic Patients - Smokers and Alcohol Consumption
