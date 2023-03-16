@@ -55,13 +55,11 @@ Diabetic to Non-Diabetic Patients
 
 
 Gender of All Patients 
-128,715 Patients are female (56.1%) & 100,759 are male (43.9%). 
 
 ![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225773817-7ea078ae-ed36-4803-9fd3-e36e00152e58.png)
 
 
 Gender of Diabetic Patients 
-18,345 are female (52.3%) & 16,752 are male (47.7%).
 
 ![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773833-31e06d92-a619-4618-a9ee-ad6eafb8d081.png)
 
