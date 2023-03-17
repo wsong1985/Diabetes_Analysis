@@ -86,7 +86,7 @@ Physical Activity by Education
 
 Fruit & Vegetable Consumption by Income
 
-![FruitVegetableConsumption](https://user-images.githubusercontent.com/115032384/225179305-ca6a55f4-1e96-44cf-8798-fd428a833f7c.png)
+![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/225788358-41eed264-90b8-4439-aff1-f1e30fcd6aec.png)
 
 
 Average BMI by Gender 
@@ -96,7 +96,7 @@ Average BMI by Gender
 
 Average BMI by Age 
 
-![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225774955-e3ee5e57-84a0-430e-bec5-6f21b526b51e.png)
+![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225788322-a78d20b1-efe0-4467-a988-9cf8cd9907a4.png)
 
 
 Diabetes Analysis Dashboard
