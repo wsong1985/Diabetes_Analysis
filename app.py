@@ -1,11 +1,12 @@
 import flask
 import pickle
-import numpy as np
 import pandas as pd
 from keras.models import load_model
 
 # Load in the pre-trained model.
 model = load_model('diabetes_model.h5')
+# with open('diabetes_model.pkl', 'rb') as file:
+#     model=pickle.load(file)
 
 # Use pickle to load in the pre-trained scaler.
 with open('dlm_X_scaler.pkl', 'rb') as file:
