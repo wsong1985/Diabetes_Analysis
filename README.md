@@ -85,7 +85,7 @@ Fruit & Vegetable Consumption by Income
 
 Average BMI by Gender 
 
-![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225774978-a57c4b46-e462-452f-a2ee-1914a35dea1d.png)
+![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225789941-af0844b6-e90d-43d1-8e0c-a86036f6115e.png)
 
 
 Average BMI by Age 
