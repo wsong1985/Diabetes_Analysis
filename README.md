@@ -34,7 +34,7 @@ What is the correlation between the vector and the target variable?
    
 ## Languages, Tools and Algorithms
 
-   * __Languages:__ Python, JavaScript
+   * __Languages:__ Python, HTML
 
    * __Tools:__ pandas, numpy, scikit-learn, imblearn, sqlalchemy, getpass, collections, tensorflow, os, keras_tuner, keras, pickle, flask, AWS, Heroku 
 
