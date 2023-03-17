@@ -71,7 +71,8 @@ Age of Diabetic Patients by Gender
 
 Smokers & Alcohol Consumption
 
-![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225178930-4b6a13b5-4fdc-4696-9d08-d1117ed6b623.png)
+![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225778199-aa887a37-d045-4ef9-ba3f-7681d0e9e487.png)
+
 
 Income 
 
