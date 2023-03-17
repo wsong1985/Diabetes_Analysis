@@ -125,14 +125,14 @@ Multiple supervised machine learning models and deep machine learning models hav
    <img src="Images/BalancedRandomForestClassifier Model.PNG" width=400>
    
    * __EasyEnsembleClassfiler Model__
-   <img src="Images/EasyEnsembleClassfiler Model.PNG" width=400>
+   <img src="Images/EasyEnsembleClassifier Model.PNG" width=400>
    
    * __Deep Learning Model__
    <img src="Images/Deep Learning Model Summary.PNG" width=400>
    <img src="Images/Deep Learning Model Performance.PNG" width=400>
   
    * __Neural Network Model(Keras-Tuner)__
-   <img src="Images/Neural Network Model Hyperparameters.PNG" width=400>
+   <img src="Images/Neural Network Model Hyperparameters.PNG" width=200>
    <img src="Images/Neural Network Model Performance.PNG" width=400>
    
 ## Summary 
