@@ -49,7 +49,6 @@ There are 229,474 patients in this dataset.
 
 
 Diabetic to Non-Diabetic Patients
-194,377 Patients are non Diabetic & 35,097 patients are Diabetic.
 
 ![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773453-4dbb5714-a1dc-473e-be0f-ae13e31208d6.png)
 
@@ -71,12 +70,7 @@ Age of Diabetic Patients by Gender
 
 Smokers & Alcohol Consumption
 
-![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225778199-aa887a37-d045-4ef9-ba3f-7681d0e9e487.png)
-
-
-Income 
-
-![Income](https://user-images.githubusercontent.com/115032384/225179717-70abd8e2-6f03-4553-ab40-484341965503.png)
+![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225789059-7dc24710-e27b-4211-955e-433ce3e96dd8.png)
 
 
 Physical Activity by Education
@@ -102,7 +96,6 @@ Average BMI by Age
 Diabetes Analysis Dashboard
 
 ![DiabetesAnalysisDashboard](https://user-images.githubusercontent.com/115032384/225776918-02587a17-8220-4f48-a5e2-2cb458b14830.png)
-
 
 
 [Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
