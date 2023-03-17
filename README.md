@@ -21,16 +21,24 @@ After testing the maching learning models, which model has the highest accuracy?
 
 What is the correlation between the vector and the target variable? 
 
-## Checklist
+## Database and Tables
 
-   * __AWS Database - Completed__
+   * __AWS Database__
    <img src="Images/Database.PNG" width=400> 
 
-   * __S3 Bucket - Completed__
+   * __S3 Bucket__
    <img src="Images/S3_bucket.PNG" width=400> 
 
-   * __Tables Created in Database - Completed__
-   <img src="Images/Tables.PNG" width=400>    
+   * __Tables Created in Database__
+   <img src="Images/Tables.PNG" width=400>
+   
+## Languages, Tools and Algorithms
+
+   * __Languages:__ Python, JavaScript
+
+   * __Tools:__ pandas, numpy, scikit-learn, imblearn, sqlalchemy, getpass, collections, tensorflow, os, keras_tuner, keras, pickle, flask, AWS, Heroku 
+
+   * __Algorithms:__ Support Vector Machine, Decision Trees, RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, EasyEnsembleClassifier, Neural Network Model.
 
 ## Tableau Analysis
 
@@ -134,10 +142,12 @@ Multiple supervised machine learning models and deep machine learning models hav
    <img src="Images/EasyEnsembleClassfiler Model.PNG" width=400>
    
    * __Deep Learning Model__
-   <img src="Images/Deep Learning Model.PNG" width=400>
+   <img src="Images/Deep Learning Model Summary.PNG" width=400>
+   <img src="Images/Deep Learning Model Performance.PNG" width=400>
   
    * __Neural Network Model(Keras-Tuner)__
-   <img src="Images/Neural Network Model.PNG" width=400>  
+   <img src="Images/Neural Network Model Hyperparameters.PNG" width=400>
+   <img src="Images/Neural Network Model Performance.PNG" width=400>
    
 ## Summary 
 
