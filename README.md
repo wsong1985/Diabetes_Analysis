@@ -43,7 +43,7 @@ What is the correlation between the vector and the target variable?
 
 ## Tableau Analysis
 
-There are 229,474 patients in this dataset. 
+Total Number of Patients
 
 ![NumberofPatients](https://user-images.githubusercontent.com/115032384/224593519-e49babfe-c817-4113-b8a0-4088b1fa34e8.png)
 
