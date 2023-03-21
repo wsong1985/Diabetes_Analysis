@@ -40,6 +40,29 @@ What is the correlation between the vector and the target variable?
 
    * __Algorithms:__ Support Vector Machine, Decision Trees, RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, EasyEnsembleClassifier, Neural Network Model.
 
+## Data Exploration
+
+   * The diabetes dataset comprises 22 columns containing 21 feature variables and 1 target variable. Our goal is to utilize machine models to predict whether or not a new patient has diabetes. Based on the dataset structure, we proceeded with classification model algorithms to help us predict the discrete outcomes.
+   * First, we preprocessed the data by removing invalid inputs and duplicates from the raw data file.  
+   * Next, we categorized features from the target by separating the outcome column from the others. In our case, the Diabetes_binary is the target variable; the rest of the columns are the feature variables.
+   * Thirdly, we split the dataset into training and testing sets.
+   * For particular algorithms, we used Scikit-learn's StandardScaler module to scale data prior to using it to train the model.
+   * It is worth noting that our dataset has no categorical data variables. Therefore, there was no need to transform and encode any data variables when we trained the deep learning model.    
+
+## Data Analysis
+
+   * With the preprocessed data, we have trained the following machine learning models:
+      * Support Vector Machine Model
+      * Decision Trees Model
+      * RandomOverSampler Model (Oversampling)
+      * SMOTE Model (Oversampling)
+      * ClusterCentroids Model (Undersampling)
+      * SMOTEENN (Combination of Oversampling and Undersampling)
+      * BalancedRandomForestClassifier Model
+      * EasyEnsembleClassifier Model
+      * Deep Learning Model (with Keras-Tuner)
+   * According to the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
+
 ## Tableau Analysis
 
 Total Number of Patients
@@ -137,7 +160,7 @@ Multiple supervised machine learning models and deep machine learning models hav
    
 ## Summary 
 
-Based on the results, the neural network model discovered using automated hyperparameter tuning outperforms the other machine learning models.
+Based on the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855.
 
 ## Webpage
    
