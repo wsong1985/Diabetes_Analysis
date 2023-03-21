@@ -65,11 +65,6 @@ What is the correlation between the vector and the target variable?
 
 ## Tableau Analysis
 
-Diabetic to Non-Diabetic Patients
-
-![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773453-4dbb5714-a1dc-473e-be0f-ae13e31208d6.png)
-
-
 Age of Diabetic Patients by Gender
 
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
