@@ -23,6 +23,8 @@ What is the correlation between the vector and the target variable?
 
 ## Database and Tables
 
+Our team decided to use Amazon Web Service to host our database for this project. After building the database, we created an S3 bucket to store the raw data file and relevant tables. 
+
    * __AWS Database__
    <img src="Images/Database.PNG" width=400> 
 
