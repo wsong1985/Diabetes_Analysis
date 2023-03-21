@@ -61,7 +61,7 @@ What is the correlation between the vector and the target variable?
       * BalancedRandomForestClassifier Model
       * EasyEnsembleClassifier Model
       * Deep Learning Model (with Keras-Tuner)
-   * According to the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of 0.854. 
+   * According to the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
 
 ## Tableau Analysis
 
@@ -160,7 +160,7 @@ Multiple supervised machine learning models and deep machine learning models hav
    
 ## Summary 
 
-Based on the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of 0.854.
+Based on the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855.
 
 ## Webpage
    
