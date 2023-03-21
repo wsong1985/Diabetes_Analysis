@@ -69,26 +69,6 @@ What is the correlation between the vector and the target variable?
 
 ## Tableau Analysis
 
-Total Number of Patients
-
-![NumberofPatients](https://user-images.githubusercontent.com/115032384/224593519-e49babfe-c817-4113-b8a0-4088b1fa34e8.png)
-
-
-Diabetic to Non-Diabetic Patients
-
-![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773453-4dbb5714-a1dc-473e-be0f-ae13e31208d6.png)
-
-
-Gender of All Patients 
-
-![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225773817-7ea078ae-ed36-4803-9fd3-e36e00152e58.png)
-
-
-Gender of Diabetic Patients 
-
-![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773833-31e06d92-a619-4618-a9ee-ad6eafb8d081.png)
-
-
 Age of Diabetic Patients by Gender
 
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
