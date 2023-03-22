@@ -14,6 +14,14 @@ There are over 37 million adults in the US living with diabetes and many more th
 
 Note: Reasoning for topic selection is documented in the project proposal and project status is documented in the project proposal and the checklist section. 
 
+## Webpage
+   
+   * __A Flask app with Neural Network Model has been deployed to an URL using Heroku.__
+   
+   [link to the Flask app](https://diabetes-model.herokuapp.com/)
+   
+   <img src="Images/Flask app.PNG" width=200> 
+   
 ## Data source: 
 
 The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BEFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
@@ -146,10 +154,3 @@ Multiple supervised machine learning models and deep machine learning models hav
 
 Based on the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855.
 
-## Webpage
-   
-   * __A Flask app with Neural Network Model has been deployed to an URL using Heroku.__
-   
-   [link to the Flask app](https://diabetes-model.herokuapp.com/)
-   
-   <img src="Images/Flask app.PNG" width=200> 
