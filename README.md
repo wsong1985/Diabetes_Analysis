@@ -1,7 +1,8 @@
 # FinalProject
-# Panda Warriors 
+
 <img src="https://user-images.githubusercontent.com/115032384/226765988-637d8309-1c3b-44c6-bbe0-49ea84acc7a1.png" width=200>
 
+# Panda Warriors 
 
 # Diabetes Analysis
 
