@@ -1,4 +1,15 @@
-# Final_Project_Group Panda Warriors
+# FinalProject
+
+<img src="https://user-images.githubusercontent.com/115032384/226765988-637d8309-1c3b-44c6-bbe0-49ea84acc7a1.png" width=200>
+
+# Panda Warriors 
+
+Xiaoyi - Team Manager
+
+Wei - Coding Expert
+
+Jess - Visualization Specialist 
+
 
 # Diabetes Analysis
 
@@ -10,6 +21,14 @@ There are over 37 million adults in the US living with diabetes and many more th
 
 Note: Reasoning for topic selection is documented in the project proposal and project status is documented in the project proposal and the checklist section. 
 
+## Webpage
+   
+   * __A Flask app with Neural Network Model has been deployed to an URL using Heroku.__
+   
+   [link to the Flask app](https://diabetes-model.herokuapp.com/)
+   
+   <img src="Images/Flask app.PNG" width=200> 
+   
 ## Data source: 
 
 The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BEFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
@@ -40,29 +59,32 @@ What is the correlation between the vector and the target variable?
 
    * __Algorithms:__ Support Vector Machine, Decision Trees, RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, EasyEnsembleClassifier, Neural Network Model.
 
+## Data Exploration
+
+   * The diabetes dataset comprises 22 columns containing 21 feature variables and 1 target variable. Our goal is to utilize machine models to predict whether or not a new patient has diabetes. Based on the dataset structure, we proceeded with classification model algorithms to help us predict the discrete outcomes.
+   * First, we preprocessed the data by removing invalid inputs and duplicates from the raw data file.  
+   * Next, we categorized features from the target by separating the outcome column from the others. In our case, the Diabetes_binary is the target variable; the rest of the columns are the feature variables.
+   * Thirdly, we split the dataset into training and testing sets.
+   * For particular algorithms, we used Scikit-learn's StandardScaler module to scale data prior to using it to train the model.
+   * It is worth noting that our dataset has no categorical data variables. Therefore, there was no need to transform and encode any data variables when we trained the deep learning model.    
+
+## Data Analysis
+
+   * With the preprocessed data, we have trained the following machine learning models:
+      * Support Vector Machine Model
+      * Decision Trees Model
+      * RandomOverSampler Model (Oversampling)
+      * SMOTE Model (Oversampling)
+      * ClusterCentroids Model (Undersampling)
+      * SMOTEENN (Combination of Oversampling and Undersampling)
+      * BalancedRandomForestClassifier Model
+      * EasyEnsembleClassifier Model
+      * Deep Learning Model (with Keras-Tuner)
+   * According to the results, the neural network model discovered using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
+
 ## Tableau Analysis
 
-Total Number of Patients
-
-![NumberofPatients](https://user-images.githubusercontent.com/115032384/224593519-e49babfe-c817-4113-b8a0-4088b1fa34e8.png)
-
-
-Diabetic to Non-Diabetic Patients
-
-![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773453-4dbb5714-a1dc-473e-be0f-ae13e31208d6.png)
-
-
-Gender of All Patients 
-
-![GenderofAllPatients](https://user-images.githubusercontent.com/115032384/225773817-7ea078ae-ed36-4803-9fd3-e36e00152e58.png)
-
-
-Gender of Diabetic Patients 
-
-![GenderofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773833-31e06d92-a619-4618-a9ee-ad6eafb8d081.png)
-
-
-Age of Diabetic Patients by Gender
+   Age of Diabetic Patients by Gender
 
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
 
@@ -135,14 +157,12 @@ Multiple supervised machine learning models and deep machine learning models hav
    <img src="Images/Neural Network Model Hyperparameters.PNG" width=200>
    <img src="Images/Neural Network Model Performance.PNG" width=400>
    
-## Summary 
 
-Based on the results, the neural network model discovered using automated hyperparameter tuning outperforms the other machine learning models.
+## Conculsion
 
-## Webpage
-   
-   * __A Flask app with Neural Network Model has been deployed to an URL using Heroku.__
-   
-   [link to the Flask app](https://diabetes-model.herokuapp.com/)
-   
-   <img src="Images/Flask app.PNG" width=200> 
+There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
+
+If we had a resource with more detailed data, like race or more countries to create more accurate machine learning models to predict the probability of a patient having diabetes. 
+
+Neural network model discovered from using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
+The BMI, age & physical health are the most significant risk factors for Diabetes. 
