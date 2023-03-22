@@ -84,7 +84,7 @@ What is the correlation between the vector and the target variable?
 
 ## Tableau Analysis
 
-Age of Diabetic Patients by Gender
+   Age of Diabetic Patients by Gender
 
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
 
