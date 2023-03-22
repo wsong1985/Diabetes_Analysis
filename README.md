@@ -4,6 +4,10 @@
 
 # Panda Warriors 
 
+Xiaoyi - Team Manager
+Wei - Coding Expert
+Jess - Visualization Specialist 
+
 # Diabetes Analysis
 
 ## Overview
@@ -154,6 +158,6 @@ Multiple supervised machine learning models and deep machine learning models hav
 ## Conculsion
 
 There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
-If we had a resource with more detailed data to create more accurate machine learning models to predict the probability of a patient having diabetes. 
+If we had a resource with more detailed data, like race or more countries to create more accurate machine learning models to predict the probability of a patient having diabetes. 
 Neural network model discovered from using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
 The BMI, age & physical health are the most significant risk factors for Diabetes. 
