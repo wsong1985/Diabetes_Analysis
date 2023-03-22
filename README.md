@@ -5,8 +5,11 @@
 # Panda Warriors 
 
 Xiaoyi - Team Manager
+
 Wei - Coding Expert
+
 Jess - Visualization Specialist 
+
 
 # Diabetes Analysis
 
