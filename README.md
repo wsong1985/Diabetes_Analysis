@@ -94,32 +94,32 @@ What is the correlation between the vector and the target variable?
 
    Smokers & Alcohol Consumption
 
-![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225789059-7dc24710-e27b-4211-955e-433ce3e96dd8.png)
+![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/227020268-357fb51b-0f96-4fde-b5a2-9c81d43bd42a.png)
 
 
    Physical Activity by Education
 
-![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225775635-1e7f24c7-ebcb-45a7-b849-de60b4223746.png)
+![PhysicalActivity](https://user-images.githubusercontent.com/115032384/227020309-9622703f-8475-483a-b0f4-7733adcd19d7.png)
 
 
    Fruit & Vegetable Consumption by Income
 
-![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/225788358-41eed264-90b8-4439-aff1-f1e30fcd6aec.png)
+![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/227020375-87381343-5bce-4675-8389-44aedad1f7d9.png)
 
 
    Age of Diabetic Patients by Gender
 
-![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
+![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/227020416-0e1d3d95-d0fe-4d80-b684-db6f88927755.png)
 
 
    Average BMI by Gender 
 
-![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225789941-af0844b6-e90d-43d1-8e0c-a86036f6115e.png)
+![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/227020458-e294c072-f74a-4c17-b830-7ebf9a4f9d10.png)
 
 
    Average BMI by Age 
 
-![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225788322-a78d20b1-efe0-4467-a988-9cf8cd9907a4.png)
+![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/227020498-fef7d93f-54c8-4ce1-bb73-1395611ad0de.png)
 
 
    Diabetes Analysis Dashboard
