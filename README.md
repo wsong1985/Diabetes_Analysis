@@ -25,7 +25,7 @@ Note: Reasoning for topic selection is documented in the project proposal and pr
    
    * __A Flask app with Neural Network Model has been deployed to an URL using Heroku.__
    
-   [link to the Flask app](https://diabetes-model.herokuapp.com/)
+   [Link to Flask App](https://diabetes-model.herokuapp.com/)
    
    <img src="Images/Flask app.PNG" width=200> 
    
@@ -33,7 +33,7 @@ Note: Reasoning for topic selection is documented in the project proposal and pr
 
 The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BEFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
 
-[link to the original post](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+[Link to Original Post](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
 ## Questions 
 After testing the maching learning models, which model has the highest accuracy? 
@@ -41,6 +41,8 @@ After testing the maching learning models, which model has the highest accuracy?
 What is the correlation between the vector and the target variable? 
 
 ## Database and Tables
+
+Our team used Amazon Web Service to host our database for this project. After building the database, an S3 bucket was created to store the raw data file and relevant tables.
 
    * __AWS Database__
 
@@ -58,7 +60,7 @@ What is the correlation between the vector and the target variable?
 
    * __Languages:__ Python, HTML
 
-   * __Tools:__ pandas, numpy, scikit-learn, imblearn, sqlalchemy, getpass, collections, tensorflow, os, keras_tuner, keras, pickle, flask, AWS, Heroku 
+   * __Tools:__ pandas, numpy, scikit-learn, imblearn, sqlalchemy, getpass, collections, tensorflow, os, keras_tuner, keras, pickle, flask, Tableau, AWS, Heroku,  
 
    * __Algorithms:__ Support Vector Machine, Decision Trees, RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, EasyEnsembleClassifier, Neural Network Model.
 
