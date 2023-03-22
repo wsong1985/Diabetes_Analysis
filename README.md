@@ -87,37 +87,42 @@ What is the correlation between the vector and the target variable?
 
 ## Tableau Analysis
 
+   Cholesterol & Blood Pressure
+   
+![CholesterolBloodPressure](https://user-images.githubusercontent.com/115032384/227018426-3585ad52-95a3-48a1-b062-bc175108ca78.png)
+
+
+   Smokers & Alcohol Consumption
+
+![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225789059-7dc24710-e27b-4211-955e-433ce3e96dd8.png)
+
+
+   Physical Activity by Education
+
+![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225775635-1e7f24c7-ebcb-45a7-b849-de60b4223746.png)
+
+
+   Fruit & Vegetable Consumption by Income
+
+![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/225788358-41eed264-90b8-4439-aff1-f1e30fcd6aec.png)
+
+
    Age of Diabetic Patients by Gender
 
 ![AgeofDiabeticPatients](https://user-images.githubusercontent.com/115032384/225773864-94730b88-0aaf-4b3e-989e-9c1e969cef0b.png)
 
 
-Smokers & Alcohol Consumption
-
-![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/225789059-7dc24710-e27b-4211-955e-433ce3e96dd8.png)
-
-
-Physical Activity by Education
-
-![PhysicalActivity](https://user-images.githubusercontent.com/115032384/225775635-1e7f24c7-ebcb-45a7-b849-de60b4223746.png)
-
-
-Fruit & Vegetable Consumption by Income
-
-![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/225788358-41eed264-90b8-4439-aff1-f1e30fcd6aec.png)
-
-
-Average BMI by Gender 
+   Average BMI by Gender 
 
 ![AvgBMIbyGender](https://user-images.githubusercontent.com/115032384/225789941-af0844b6-e90d-43d1-8e0c-a86036f6115e.png)
 
 
-Average BMI by Age 
+   Average BMI by Age 
 
 ![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/225788322-a78d20b1-efe0-4467-a988-9cf8cd9907a4.png)
 
 
-Diabetes Analysis Dashboard
+   Diabetes Analysis Dashboard
 
 ![DiabetesAnalysisDashboard](https://user-images.githubusercontent.com/115032384/225776918-02587a17-8220-4f48-a5e2-2cb458b14830.png)
 
