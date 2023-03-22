@@ -41,7 +41,13 @@ After testing the maching learning models, which model has the highest accuracy?
 What is the correlation between the vector and the target variable? 
 
 ## Database and Tables
+<<<<<<< HEAD
 Our team used Amazon Web Service to host our database for this project. After building the database, an S3 bucket was created to store the raw data file and relevant tables.
+=======
+
+Our team decided to use Amazon Web Service to host our database for this project. After building the database, we created an S3 bucket to store the raw data file and relevant tables. 
+
+>>>>>>> 847053972ca77b113d0b2027432be9ac37c30bd4
    * __AWS Database__
 
    <img src="Images/Database.PNG" width=400> 
