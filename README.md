@@ -41,7 +41,7 @@ After testing the maching learning models, which model has the highest accuracy?
 What is the correlation between the vector and the target variable? 
 
 ## Database and Tables
-
+Our team used Amazon Web Service to host our database for this project. After building the database, an S3 bucket was created to store the raw data file and relevant tables.
    * __AWS Database__
 
    <img src="Images/Database.PNG" width=400> 
@@ -58,7 +58,7 @@ What is the correlation between the vector and the target variable?
 
    * __Languages:__ Python, HTML
 
-   * __Tools:__ pandas, numpy, scikit-learn, imblearn, sqlalchemy, getpass, collections, tensorflow, os, keras_tuner, keras, pickle, flask, AWS, Heroku 
+   * __Tools:__ pandas, numpy, scikit-learn, imblearn, sqlalchemy, getpass, collections, tensorflow, os, keras_tuner, keras, pickle, flask, Tableau, AWS, Heroku,  
 
    * __Algorithms:__ Support Vector Machine, Decision Trees, RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, EasyEnsembleClassifier, Neural Network Model.
 
