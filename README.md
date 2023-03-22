@@ -43,12 +43,15 @@ What is the correlation between the vector and the target variable?
 ## Database and Tables
 
    * __AWS Database__
+
    <img src="Images/Database.PNG" width=400> 
 
    * __S3 Bucket__
+
    <img src="Images/S3_bucket.PNG" width=400> 
 
    * __Tables Created in Database__
+
    <img src="Images/Tables.PNG" width=400>
    
 ## Languages, Tools and Algorithms
@@ -126,35 +129,47 @@ Diabetes Analysis Dashboard
 Multiple supervised machine learning models and deep machine learning models have been tested. The performance of each model is shown below:
 
    * __SVM Model__
+
    <img src="Images/SVM Model.PNG" width=400> 
    
    * __Decision Tree Model__
+
    <img src="Images/Decision Tree Model.PNG" width=400> 
    
    * __RandomOverSampler Model__
+
    <img src="Images/RandomOverSampler Model.PNG" width=400>
    
    * __SMOTE Model__
+
    <img src="Images/SMOTE Model.PNG" width=400>
    
    * __ClusterCentroids Model__
+
    <img src="Images/ClusterCentroids Model.PNG" width=400>
    
    * __SMOTEENN Model__
+
    <img src="Images/SMOTEENN Model.PNG" width=400>
    
    * __BalancedRandomForestClassifier Model__
+
    <img src="Images/BalancedRandomForestClassifier Model.PNG" width=400>
    
    * __EasyEnsembleClassfiler Model__
+
    <img src="Images/EasyEnsembleClassifier Model.PNG" width=400>
    
    * __Deep Learning Model__
+
    <img src="Images/Deep Learning Model Summary.PNG" width=400>
+
    <img src="Images/Deep Learning Model Performance.PNG" width=400>
   
    * __Neural Network Model(Keras-Tuner)__
+
    <img src="Images/Neural Network Model Hyperparameters.PNG" width=200>
+   
    <img src="Images/Neural Network Model Performance.PNG" width=400>
    
 
