@@ -1,4 +1,4 @@
-# Final_Project_Group4
+# Final_Project_Group Panda Warriors
 
 # Diabetes Analysis
 
