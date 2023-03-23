@@ -96,17 +96,17 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
    Smokers & Alcohol Consumption
 
-![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/227020268-357fb51b-0f96-4fde-b5a2-9c81d43bd42a.png)
+![SmokersAlcoholConsumption](https://user-images.githubusercontent.com/115032384/227210547-e1d5fb92-7e5a-47e9-b437-13cc8534d2eb.png)
 
 
    Physical Activity by Education
 
-![PhysicalActivity](https://user-images.githubusercontent.com/115032384/227020309-9622703f-8475-483a-b0f4-7733adcd19d7.png)
+![PhysicalActivity](https://user-images.githubusercontent.com/115032384/227210585-093a4044-65e3-4d01-a056-8a3aaeb6471f.png)
 
 
    Fruit & Vegetable Consumption by Income
 
-![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/227020375-87381343-5bce-4675-8389-44aedad1f7d9.png)
+![FruitVegetableConsumptionbyIncome](https://user-images.githubusercontent.com/115032384/227210635-70d92e11-abb1-420b-acdf-a9c48e24acfd.png)
 
 
    Age of Diabetic Patients by Gender
@@ -130,7 +130,6 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 
 [Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
 
 ## Results 
 
