@@ -40,7 +40,7 @@ After testing the machine learning models, which model has the highest accuracy?
 
 What is the correlation between the vector and the target variable? 
 
-## Database and Tables
+## Database and Tables 
 
 Our team used Amazon Web Service to host our database for this project. After building the database, an S3 bucket was created to store the raw data file and relevant tables.
 
