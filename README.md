@@ -89,6 +89,9 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 ## Tableau Analysis
 
+[Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
    Cholesterol & Blood Pressure
    
 ![CholesterolBloodPressure](https://user-images.githubusercontent.com/115032384/227018426-3585ad52-95a3-48a1-b062-bc175108ca78.png)
@@ -128,8 +131,6 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 ![DiabetesAnalysisDashboard](https://user-images.githubusercontent.com/115032384/225776918-02587a17-8220-4f48-a5e2-2cb458b14830.png)
 
-
-[Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results 
 
