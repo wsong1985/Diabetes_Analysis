@@ -31,12 +31,12 @@ Note: Reasoning for topic selection is documented in the project proposal and pr
    
 ## Data source: 
 
-The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BEFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
+The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BRFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
 
 [Link to Original Post](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
 ## Questions 
-After testing the maching learning models, which model has the highest accuracy? 
+After testing the machine learning models, which model has the highest accuracy? 
 
 What is the correlation between the vector and the target variable? 
 
