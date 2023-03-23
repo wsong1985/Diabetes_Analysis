@@ -126,8 +126,7 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 ![AvgBMIbyAge](https://user-images.githubusercontent.com/115032384/227020498-fef7d93f-54c8-4ce1-bb73-1395611ad0de.png)
 
-
-   Diabetes Analysis Dashboard
+   Dashboard
 
 ![DiabetesAnalysisDashboard](https://user-images.githubusercontent.com/115032384/225776918-02587a17-8220-4f48-a5e2-2cb458b14830.png)
 
