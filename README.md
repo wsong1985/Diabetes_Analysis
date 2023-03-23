@@ -137,7 +137,7 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 ## Results 
 
-Multiple supervised machine learning models and deep machine learning models have been tested. The performance of each model is shown below:
+Multiple supervised machine learning models and deep learning models have been tested. The performance of each model is shown below:
 
    * __SVM Model__
 
@@ -186,9 +186,7 @@ Multiple supervised machine learning models and deep machine learning models hav
 
 ## Conculsion
 
-The SVM classifier we tried in the very beginning shows an intresting resutls: For all testing dataset, it always gives negative results. 
-With about 85% entries in this dataset has negative results, this blind guess on negative can achieve 84.7% accuracy on the testing dataset. 
-This is due to the class imbalance of the source dataset. 
+The SVM classifier we tried in the very beginning shows an interesting result: For all testing dataset, it always gives negative results. With about 85% entries in this dataset have negative results, this blind guess on negative can achieve 84.7% accuracy on the testing dataset. This is due to the class imbalance of the source dataset. 
 This 84.7% number is set as baseline for the evaluation of the rest of the models.
 
 To account for the class imbalance issue. We tested oversampling, undersampling and combined sampling methods. 
@@ -200,6 +198,6 @@ The BMI, age & physical health are the most significant risk factors for Diabete
 Possible improvement can be:
 
 * Test with larger dataset. With a large dataset, it's possible to train a more sofisticated network and possible to achieve a better accuracy. 
-* Incorporate more data columns, there are might be other aspects can affect the diabetes not included in the currect dataset. 
+* Incorporate more data columns, there might be other aspects that can affect the diabetes not included in the currect dataset. 
 
 There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
