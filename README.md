@@ -91,6 +91,10 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 [Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+   Diabetic to Non-Diabetic Patients 
+
+![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/227278204-16f718a4-66b1-433e-a55c-d9dda0219660.png)
+
 
    Cholesterol & Blood Pressure
    
