@@ -182,9 +182,20 @@ Multiple supervised machine learning models and deep machine learning models hav
 
 ## Conculsion
 
-There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
+The SVM classifier we tried in the very beginning shows an intresting resutls: For all testing dataset, it gives negative results. 
+With about 84.7% entries in this dataset has negative results, this blind guess on negative can achieve 84.7% accuracy. 
+This is due to the class imbalance of the source dataset. 
+This 84.7% number is set as baseline for the evaluation of the rest of the models.
 
-If we had a resource with more detailed data, like race or more countries to create more accurate machine learning models to predict the probability of a patient having diabetes. 
+To account for the class imbalance issue. We tested oversampling, undersampling and combined sampling methods. 
+With the trained model did output both positive and negative results, the accuracy is not good enough. 
 
-Neural network model discovered from using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
+Neural network model discovered from using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 85.5%. 
 The BMI, age & physical health are the most significant risk factors for Diabetes. 
+
+Possible improvement can be:
+
+* Test with larger dataset to allow more sophisticated neural network. 
+* Incorporate more data columns, there are might be other aspects can affect the diabetes not included in the currect dataset. 
+
+There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
