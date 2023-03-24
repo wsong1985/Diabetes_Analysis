@@ -33,16 +33,16 @@ Note: Reasoning for topic selection is documented in the project proposal and pr
    
 ## Data source: 
 
-The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BEFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
+The dataset used for our research was the diabetes_binary_health_indicators_BRFSS2015.csv, extracted from the data pool of health-related telephone survey of 2015 provided by the Behavioral Risk Factor Surveillance System (BRFSS). The data file contains 253,680 survey responses to the CDC's BRFSS2015. The target variable Diabetes_binary has 2 classes. 0 is for no diabetes, and 1 is for prediabetes or diabetes. This dataset has 21 feature variables and is not balanced. The original post can be found on Kaggle; please access the following link to the original post.
 
 [Link to Original Post](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
 ## Questions 
-After testing the maching learning models, which model has the highest accuracy? 
+After testing the machine learning models, which model has the highest accuracy? 
 
 What is the correlation between the vector and the target variable? 
 
-## Database and Tables
+## Database and Tables 
 
 Our team used Amazon Web Service to host our database for this project. After building the database, an S3 bucket was created to store the raw data file and relevant tables.
 
@@ -93,6 +93,10 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 [Link to Tableau Story](https://public.tableau.com/views/Diabetes_Analysis_16786693958130/DiabetesAnalysisStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+   Diabetic to Non-Diabetic Patients 
+
+![DiabetictoNonDiabeticPatients](https://user-images.githubusercontent.com/115032384/227278204-16f718a4-66b1-433e-a55c-d9dda0219660.png)
+
 
    Cholesterol & Blood Pressure
    
@@ -135,7 +139,7 @@ Our team used Amazon Web Service to host our database for this project. After bu
 
 ## Results 
 
-Multiple supervised machine learning models and deep machine learning models have been tested. The performance of each model is shown below:
+Multiple supervised machine learning models and deep learning models have been tested. The performance of each model is shown below:
 
    * __SVM Model__
 
@@ -184,9 +188,18 @@ Multiple supervised machine learning models and deep machine learning models hav
 
 ## Conculsion
 
-There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
+The SVM classifier we tried in the very beginning shows an interesting result: For all testing dataset, it always gives negative results. With about 85% entries in this dataset have negative results, this blind guess on negative can achieve 84.7% accuracy on the testing dataset. This is due to the class imbalance of the source dataset. 
+This 84.7% number is set as baseline for the evaluation of the rest of the models.
 
-If we had a resource with more detailed data, like race or more countries to create more accurate machine learning models to predict the probability of a patient having diabetes. 
+To account for the class imbalance issue. We tested oversampling, undersampling and combined sampling methods. 
+Although the trained model did output both positive and negative results, the accuracy is not good enough compared with the baseline. 
 
-Neural network model discovered from using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 0.855. 
+Neural network model discovered from using Keras-Tuner outperformed the other machine learning models with an accuracy of approximately 85.5%. 
 The BMI, age & physical health are the most significant risk factors for Diabetes. 
+
+Possible improvement can be:
+
+* Test with larger dataset. With a large dataset, it's possible to train a more sofisticated network and possible to achieve a better accuracy. 
+* Incorporate more data columns, there might be other aspects that can affect the diabetes not included in the currect dataset. 
+
+There was a technical challenge encountered when attempting deploy app to the web service, Heroku. The size of the original bundle was 900mb, but the web services limit is 500mb. This was solved by creating a new development environment. After testing the app, the error message showed what libraries were required and followed the instructions to download them. This reduced the bundle size to around 270mb. 
